@@ -1,0 +1,13 @@
+
+@media (max-width:556px){
+    .table{
+        width: 560px;
+    }
+    .table-container{
+overflow-x: scroll;
+    }
+}
+
+.notation{
+    margin-top: 32%;
+}
